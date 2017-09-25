@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0  Date: 2012/07/19 17:38:04
+#
+$CMP 2SA970
+F transistors/bipolar/bc307.pdf
+$ENDCMP
+#
+$CMP 2SA995
+F transistors/bipolar/bc307.pdf
+$ENDCMP
+#
+$CMP 2SC1583
+F transistors/bipolar/bc237.pdf
+$ENDCMP
+#
+$CMP 2SC2291
+F transistors/bipolar/bc237.pdf
+$ENDCMP
+#
+$CMP TR-NPN
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP TR-PNP
+F transistors/bipolar/*.*
+$ENDCMP
+#
+#End Doc Library
