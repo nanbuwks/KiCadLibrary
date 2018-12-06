@@ -1,0 +1,18 @@
+(module SolderWirePad_Circle_8xInline_0-85mmDrill (layer F.Cu) (tedit 5AF58585)
+  (descr SolderWirePad_Circle_8xInline_0-85mmDrill)
+  (tags SolderWirePad_Circle_8xInline_0-85mmDrill)
+  (fp_text reference P2 (at 0 -3.175) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CONN_01X08 (at -0.635 3.175) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 8 thru_hole circle (at 8.89 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 6 thru_hole circle (at 3.81 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 7 thru_hole circle (at 6.35 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 5 thru_hole circle (at 1.27 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at -3.81 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 4 thru_hole circle (at -1.27 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at -6.35 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at -8.89 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
+)
